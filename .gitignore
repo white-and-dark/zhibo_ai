@@ -1,0 +1,97 @@
+# PyCharm IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# PyCharm project specific
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/vcs.xml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/misc.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/caches/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/scopes/
+.idea/codeStyles/
+.idea/codeStyles.xml
+.idea/runConfigurations/
+
+# PyCharm cache
+.idea/.gitignore
+.idea/*.bak
+
+# PyCharm临时文件
+*.iws
+
+# Python运行相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# 日志文件
+*.log
+*.sqlite
+*.sqlite3
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 项目特定忽略（根据你的项目调整）
+models/
+data/
+output/
+logs/
+temp/
+tmp/
+
+# 配置文件（如果有敏感信息）
+config.ini
+secrets.ini
+.env
+.env.local
